@@ -12,7 +12,7 @@ Build a Machine Learning system that analyzes applicant details and predicts loa
 - 📊 Data Analysis & Preprocessing
 - 💳 Applicant & Financial Data Analysis
 - 🎯 Approval / Rejection Prediction
-- 📈 Confidence Score
+- 📈 Prediction Confidence Score
 - ⚡ Real-Time Prediction
 - 🌐 Interactive Streamlit Web App
 
