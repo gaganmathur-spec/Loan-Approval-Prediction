@@ -13,7 +13,7 @@ Build a Machine Learning system that analyzes applicant details and predicts loa
 - 💳 Applicant & Financial Data Analysis
 - 🎯 Approval / Rejection Prediction
 - 📈 Prediction Confidence Score
-- ⚡ Real-Time Prediction
+- ⚡ Real-Time Loan Prediction
 - 🌐 Interactive Streamlit Web App
 
 🛠️ Tech Stack
