@@ -4,14 +4,14 @@ A Machine Learning application that predicts whether a loan application will be 
 
 🎯 Objective
 
-Build a Machine Learning system that analyzes applicant details and predicts loan approval outcomes.
+Build a Machine Learning system that analyzes applicant and financial details to predict loan approval outcomes.
 
 ✨ Features
 
 - 🤖 Machine Learning-Based Prediction
 - 📊 Data Analysis & Preprocessing
 - 💳 Applicant & Financial Data Analysis
-- 🎯 Approval / Rejection Prediction
+- 🎯 Loan Approval / Rejection Prediction
 - 📈 Prediction Confidence Score
 - ⚡ Real-Time Loan Prediction
 - 🌐 Interactive Streamlit Web App
