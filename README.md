@@ -4,7 +4,7 @@ A Machine Learning-based application that predicts whether a loan application wi
 
 🎯 Objective
 
-Develop an intelligent Machine Learning system that analyzes applicant information and financial factors to predict loan approval outcomes and support data-driven lending decisions.
+To develop an intelligent Machine Learning system that analyzes applicant and financial data to predict loan approval outcomes and support data-driven lending decisions.
 
 ✨ Key Features
 
@@ -22,4 +22,4 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 🚀 Application
 
-An interactive web application that allows users to enter applicant details and receive instant loan approval predictions with a confidence score.
+An interactive web application that allows users to enter applicant details and receive instant loan approval predictions along with a confidence score.
