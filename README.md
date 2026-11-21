@@ -1,10 +1,10 @@
 🏦 Loan Approval Prediction System
 
-A Machine Learning-based application that predicts whether a loan application will be Approved or Rejected based on applicant details, financial information, credit score, and employment history.
+A Machine Learning-based application that predicts whether a loan application is likely to be Approved or Rejected based on applicant details, financial information, credit score, employment history, and other relevant factors.
 
 🎯 Objective
 
-To develop an intelligent Machine Learning system that analyzes applicant and financial data to predict loan approval outcomes and support data-driven lending decisions.
+The objective of this project is to develop an intelligent Machine Learning system that analyzes applicant and financial data to predict loan approval outcomes and support data-driven lending decisions.
 
 ✨ Key Features
 
@@ -22,4 +22,16 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 
 🚀 Application
 
-An interactive web application that allows users to enter applicant details and receive instant loan approval predictions along with a confidence score.
+The interactive web application allows users to enter applicant and financial details and receive an instant prediction of whether the loan is likely to be Approved or Rejected, along with the model's prediction confidence score.
+
+📌 Project Highlights
+
+- Handles applicant and financial input data
+- Performs data preprocessing before prediction
+- Uses a Machine Learning classification model
+- Provides real-time predictions through Streamlit
+- Displays prediction confidence for better interpretation
+
+👨‍💻 Project Type
+
+Machine Learning | Classification | Streamlit Web Application
